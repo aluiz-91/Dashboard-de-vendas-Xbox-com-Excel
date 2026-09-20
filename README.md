@@ -29,7 +29,7 @@ O objetivo do projeto é consolidar dados de vendas de assinaturas de pacotes e 
   - Tabelas Dinâmicas (Pivot Tables) e Gráficos Dinâmicos
   - Segmentadores de Dados (Slicers)
   - Formatação Condicional e Design Dashboard
-* Inteligência Artificial (IA Generativa - Copilot / ChatGPT):
+* Inteligência Artificial (IA Generativa - Copilot):
   * Suporte na criação de fórmulas avançadas.
   * Otimização da estrutura e auxílio no planejamento do layout do dashboard.
 
