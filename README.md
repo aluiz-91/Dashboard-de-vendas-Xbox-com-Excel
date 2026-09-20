@@ -22,7 +22,7 @@ O objetivo do projeto é consolidar dados de vendas de assinaturas de pacotes e 
 
 ---
 
-🛠️ Tecnologias e Ferramentas Utilizadas
+## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 * ## Microsoft Excel:
   - Fórmulas e Funções de Agregação
