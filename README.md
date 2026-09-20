@@ -22,12 +22,12 @@ A página criada do relatório é composta pelos seguintes elementos visuais:
 
 🛠️ Tecnologias e Ferramentas Utilizadas
 
-*Microsoft Excel:
+* Microsoft Excel:
   * Fórmulas e Funções de Agregação
   * Tabelas Dinâmicas (Pivot Tables) e Gráficos Dinâmicos
   * Segmentadores de Dados (Slicers)
   * Formatação Condicional e Design Dashboard
-*Inteligência Artificial (IA Generativa - Copilot / ChatGPT):
+* Inteligência Artificial (IA Generativa - Copilot / ChatGPT):
   * Suporte na criação de fórmulas avançadas.
   * Otimização da estrutura e auxílio no planejamento do layout do dashboard.
 
