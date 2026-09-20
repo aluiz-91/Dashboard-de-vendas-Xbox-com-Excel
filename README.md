@@ -10,15 +10,15 @@ O objetivo do projeto é consolidar dados de vendas de assinaturas de pacotes e 
 🎯 Funcionalidades e Destaques do Painel
 
 * Métricas Principais (Cards de KPI):
-  ** Total Subscriptions EA Season Pass: Acompanhamento do faturamento do passe EA Play.
-  ** Total Subscriptions Minecraft Season Pass: Monitoramento de receitas geradas por pacotes de temporada do Minecraft.
-  ** Total Subscriptions Xbox Game Pass: Comparativo dinâmico de assinaturas acumuladas por modalidade.
+   * Total Subscriptions EA Season Pass: Acompanhamento do faturamento do passe EA Play.
+   * Total Subscriptions Minecraft Season Pass: Monitoramento de receitas geradas por pacotes de temporada do Minecraft.
+   * Total Subscriptions Xbox Game Pass: Comparativo dinâmico de assinaturas acumuladas por modalidade.
 * Filtros e Interatividade:
-  ** Segmentador de Período (Subscription Type): Alternância e filtragem dinâmica entre tipos de assinaturas (Annual, Monthly, Quarterly).
-  ** Controle de Apuração: Exibição clara de datas de apuração e datas de atualização dos dados.
+   * Segmentador de Período (Subscription Type): Alternância e filtragem dinâmica entre tipos de assinaturas (Annual, Monthly, Quarterly).
+   * Controle de Apuração: Exibição clara de datas de apuração e datas de atualização dos dados.
 * Design e UI/UX no Excel:
-  ** Layout tematizado com a identidade visual da marca Xbox.
-  ** Interface limpa, intuitiva e sem poluição visual, otimizada para apresentações executivas.
+   * Layout tematizado com a identidade visual da marca Xbox.
+   * Interface limpa, intuitiva e sem poluição visual, otimizada para apresentações executivas.
 
 ---
 
