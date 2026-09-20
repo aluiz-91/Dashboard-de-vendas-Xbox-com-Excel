@@ -35,6 +35,6 @@ O objetivo do projeto é consolidar dados de vendas de assinaturas de pacotes e 
 
 ---
 
-👨‍💻 ## Autor
+👨‍💻## Autor
 
 Desenvolvido por *André Luiz* durante o bootcamp de Excel com IA da DIO.
