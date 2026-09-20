@@ -7,16 +7,18 @@ O objetivo do projeto é consolidar dados de vendas de assinaturas de pacotes e 
 
 ---
 
-## 📌 Estrutura do Dashboard (Página 3)
+🎯 Funcionalidades e Destaques do Painel
 
-A página criada do relatório é composta pelos seguintes elementos visuais:
-
-1. **Visual de Pizza — Lucro por Segmento:**
-   - Exibe a proporção do lucro gerado por cada segmento de cliente (`Government`, `Small Business`, `Enterprise`, etc.).
-2. **Visual de Mapa 1 — Vendas e Unidades Vendidas por País:**
-   - Mapeia geograficamente a soma de vendas e o volume físico de unidades comercializadas.
-3. **Visual de Mapa 2 — Lucro por País:**
-   - Mapeia o desempenho financeiro líquido por localização geográfica.
+* Métricas Principais (Cards de KPI):
+  ** Total Subscriptions EA Season Pass: Acompanhamento do faturamento do passe EA Play.
+  ** Total Subscriptions Minecraft Season Pass: Monitoramento de receitas geradas por pacotes de temporada do Minecraft.
+  ** Total Subscriptions Xbox Game Pass: Comparativo dinâmico de assinaturas acumuladas por modalidade.
+* Filtros e Interatividade:
+  ** Segmentador de Período (Subscription Type): Alternância e filtragem dinâmica entre tipos de assinaturas (Annual, Monthly, Quarterly).
+  ** Controle de Apuração: Exibição clara de datas de apuração e datas de atualização dos dados.
+* Design e UI/UX no Excel:
+  ** Layout tematizado com a identidade visual da marca Xbox.
+  ** Interface limpa, intuitiva e sem poluição visual, otimizada para apresentações executivas.
 
 ---
 
